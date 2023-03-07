@@ -30,7 +30,7 @@ The smooth operation of this organization needs to be maintained by everyone:fam
 
 ### Download folder
 
-Please refer to[git - Download a single folder or directory from a GitHub repo - Stack Overflow](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)
+Please refer to: [git - Download a single folder or directory from a GitHub repo - Stack Overflow](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)
 
 Link: [DownGit (minhaskamal.github.io)](https://minhaskamal.github.io/DownGit/#/home)
 
